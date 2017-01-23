@@ -8,9 +8,9 @@
 //:        <code to execute>
 //:    }
 
-var breakfast = true
+var breakfast = false
 var lunch = false
-var dinner = false
+var dinner = true
 
 if breakfast {
     print("Good morning!")
